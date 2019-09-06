@@ -44,7 +44,7 @@ No hay reglas específicas sobre qué preguntas deberías hacerte para guiar tu 
 
 El resto de este capítulo examinará las preguntas anteriores. Explicaremos qué es variación y covariación, y te mostraremos diferentes maneras de responder cada pregunta. Para facilitar esta discusión, definamos algunos términos: 
 
-*   Una __variable__ es una cantidad, cualidad o característica mesurable, es decir, que se puede medir.
+*   Una __variable__ es una cantidad, cualidad o característica mensurable, es decir, que se puede medir.
 
 *   Un __valor__ es el estado de la variable en el momento en que fue medida. El valor de una
     variable puede cambiar de una medición a otra.
